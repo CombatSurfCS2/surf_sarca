@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_tarp_02.vmt"
+}

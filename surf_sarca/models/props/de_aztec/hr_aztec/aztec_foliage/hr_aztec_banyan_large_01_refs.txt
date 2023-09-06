@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_foliage\hr_aztec_banyan_leaves_01_static.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_foliage\hr_aztec_banyan_trunk_01_color.vmt"
+}

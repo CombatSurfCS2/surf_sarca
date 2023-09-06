@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_stairs\hr_aztec_stair_02_edge_grey_color.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_stairs\hr_aztec_stair_02_edge_moss_color.vmt"
+}

@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_02_trims_grey_color.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_02_trims_white_color.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_02_trims_moss_color.vmt"
+}

@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\surf\concrete_cyan.vmt"
+	"file"	"materials\models\surf\concrete_black.vmt"
+}

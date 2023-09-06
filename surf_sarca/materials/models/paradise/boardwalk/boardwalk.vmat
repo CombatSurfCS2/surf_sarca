@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/paradise/boardwalk/boardwalk_d_color.tga"
+	"TextureNormal"		"materials/models/paradise/boardwalk/boardwalk_n_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureDetail"		"materials/detail/dt_plaster01_detail.tga"
+	"g_vDetailTexCoordScale"		"[16.000000 16.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models/paradise/boardwalk/boardwalk_d"
+			"$bumpmap"		"models/paradise/boardwalk/boardwalk_n"
+			"$detail"		"detail/dt_plaster01"
+			"$detailscale"		"16"
+		}
+	}
+}

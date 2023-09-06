@@ -1,0 +1,208 @@
+<!-- dmx encoding keyvalues2 4 format vmap 35 -->
+"$prefix_element$"
+{
+	"id" "elementid" "78c6730e-d331-43c9-b154-ad7764b1c1c6"
+	"map_asset_references" "string_array" 
+	[
+		"maps/surf_sarca_prefab.vmap"
+	]
+}
+"CMapRootElement"
+{
+	"id" "elementid" "ce28e652-97db-4fbe-9378-890f6ac1f190"
+	"isprefab" "bool" "0"
+	"editorbuild" "int" "9805"
+	"editorversion" "int" "400"
+	"itemFile" "string" ""
+	"defaultcamera" "CStoredCamera"
+	{
+		"id" "elementid" "1c9cc75b-9f01-4866-9fcd-fc634eb3dd43"
+		"position" "vector3" "0 -1000 1000"
+		"lookat" "vector3" "0 0 0"
+	}
+
+	"3dcameras" "CStoredCameras"
+	{
+		"id" "elementid" "830b8c8b-dcf5-4bad-833e-cd1556002c43"
+		"activecamera" "int" "-1"
+		"cameras" "element_array" 
+		[
+		]
+	}
+
+	"world" "CMapWorld"
+	{
+		"id" "elementid" "87f52660-f4c4-4213-b61c-7e5b4a13a3dd"
+		"nodeID" "int" "1"
+		"referenceID" "uint64" "0x0"
+		"children" "element_array" 
+		[
+			"CMapPrefab"
+			{
+				"id" "elementid" "215b53d1-34f5-4d59-9912-eec472e49def"
+				"nodeID" "int" "2"
+				"referenceID" "uint64" "0x30efceacdee87fbf"
+				"children" "element_array" 
+				[
+				]
+				"variableTargetKeys" "string_array" 
+				[
+				]
+				"variableNames" "string_array" 
+				[
+				]
+				"relayPlugData" "DmePlugList"
+				{
+					"id" "elementid" "24e904f1-8adb-47f1-a566-86afe38f63d8"
+					"names" "string_array" 
+					[
+					]
+					"dataTypes" "int_array" 
+					[
+					]
+					"plugTypes" "int_array" 
+					[
+					]
+					"descriptions" "string_array" 
+					[
+					]
+				}
+
+				"connectionsData" "element_array" 
+				[
+				]
+				"target" "element" ""
+				"variableOverrideNames" "string_array" 
+				[
+				]
+				"variableOverrideValues" "string_array" 
+				[
+				]
+				"origin" "vector3" "0 0 0"
+				"angles" "qangle" "0 0 0"
+				"scales" "vector3" "1 1 1"
+				"transformLocked" "bool" "0"
+				"force_hidden" "bool" "0"
+				"editorOnly" "bool" "0"
+				"tintColor" "color" "255 255 255 255"
+				"targetMapPath" "string" "maps/surf_sarca_prefab.vmap"
+				"targetName" "string" ""
+				"fixupEntityNames" "bool" "0"
+				"useTargetNameAsPrefix" "bool" "0"
+				"loadIfNested" "bool" "1"
+				"visexclude" "bool" "0"
+				"displayColor" "color" "191 76 92 255"
+				"loadAtRuntime" "bool" "0"
+			}
+		]
+		"variableTargetKeys" "string_array" 
+		[
+		]
+		"variableNames" "string_array" 
+		[
+		]
+		"relayPlugData" "DmePlugList"
+		{
+			"id" "elementid" "584dcb9b-dd5e-4ba5-b94e-f6340492850d"
+			"names" "string_array" 
+			[
+			]
+			"dataTypes" "int_array" 
+			[
+			]
+			"plugTypes" "int_array" 
+			[
+			]
+			"descriptions" "string_array" 
+			[
+			]
+		}
+
+		"connectionsData" "element_array" 
+		[
+		]
+		"entity_properties" "EditGameClassProps"
+		{
+			"id" "elementid" "5b12b2dd-211c-4591-81b6-ab5ebd47c163"
+			"classname" "string" "worldspawn"
+		}
+
+		"nextDecalID" "int" "0"
+		"fixupEntityNames" "bool" "1"
+		"mapUsageType" "string" "standard"
+		"origin" "vector3" "0 0 0"
+		"angles" "qangle" "0 0 0"
+		"scales" "vector3" "1 1 1"
+		"transformLocked" "bool" "0"
+		"force_hidden" "bool" "0"
+		"editorOnly" "bool" "0"
+	}
+
+	"visbility" "CVisibilityMgr"
+	{
+		"id" "elementid" "290fde2f-6d61-4f33-96c0-e165a8c1e5c1"
+		"nodeID" "int" "0"
+		"referenceID" "uint64" "0x0"
+		"children" "element_array" 
+		[
+		]
+		"variableTargetKeys" "string_array" 
+		[
+		]
+		"variableNames" "string_array" 
+		[
+		]
+		"nodes" "element_array" 
+		[
+		]
+		"hiddenFlags" "int_array" 
+		[
+		]
+		"origin" "vector3" "0 0 0"
+		"angles" "qangle" "0 0 0"
+		"scales" "vector3" "1 1 1"
+		"transformLocked" "bool" "0"
+		"force_hidden" "bool" "0"
+		"editorOnly" "bool" "0"
+	}
+
+	"mapVariables" "CMapVariableSet"
+	{
+		"id" "elementid" "697de336-a919-4b4e-9bf9-134ddea7570b"
+		"variableNames" "string_array" 
+		[
+		]
+		"variableValues" "string_array" 
+		[
+		]
+		"variableTypeNames" "string_array" 
+		[
+		]
+		"variableTypeParameters" "string_array" 
+		[
+		]
+		"m_ChoiceGroups" "element_array" 
+		[
+		]
+	}
+
+	"rootSelectionSet" "CMapSelectionSet"
+	{
+		"id" "elementid" "8a4a6cb6-fd5b-410b-99f3-8c60e7b7f58d"
+		"children" "element_array" 
+		[
+		]
+		"selectionSetName" "string" ""
+		"selectionSetData" "element" ""
+	}
+
+	"m_ReferencedMeshSnapshots" "element_array" 
+	[
+	]
+	"m_bIsCordoning" "bool" "0"
+	"m_bCordonsVisible" "bool" "0"
+	"nodeInstanceData" "element_array" 
+	[
+	]
+}
+

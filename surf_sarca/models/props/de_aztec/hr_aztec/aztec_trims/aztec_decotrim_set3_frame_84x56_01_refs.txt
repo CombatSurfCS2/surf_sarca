@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_trims\aztec_decotrim_set_03.vmt"
+}

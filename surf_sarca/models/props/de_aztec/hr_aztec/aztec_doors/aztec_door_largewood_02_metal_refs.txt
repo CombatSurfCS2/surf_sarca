@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_doors\aztec_door_largewood_02.vmt"
+}

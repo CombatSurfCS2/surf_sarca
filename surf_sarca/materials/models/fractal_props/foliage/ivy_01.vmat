@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/fractal_props/foliage/ivy_01_a_d_color.tga"
+	"TextureNormal"		"materials/models/fractal_props/foliage/ivy_01_n_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/fractal_props/foliage/ivy_01_n_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTranslucency"		"materials/models/fractal_props/foliage/ivy_01_a_d_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.500000"
+	"F_RENDER_BACKFACES"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models/fractal_props/foliage/ivy_01_a_d"
+			"$bumpmap"		"models/fractal_props/foliage/ivy_01_n"
+			"$alphatest"		"1"
+			"$nocull"		"1"
+			"$phong"		"1"
+			"$phongfresnelranges"		"[0.8 1.4 2]"
+			"$phongexponent"		"100"
+			"$phongboost"		"0.800000"
+			"$phongalbedoboost"		"2"
+		}
+	}
+}

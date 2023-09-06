@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\surf\inner_rock_2.vmt"
+	"file"	"materials\models\surf\corner_ski_2.vmt"
+}

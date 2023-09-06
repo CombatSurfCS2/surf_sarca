@@ -1,0 +1,17 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_dust/hr_dust/dust_trims/hr_dust_roof_trim001_color.tga"
+	"TextureNormal"		"materials/models/props/de_dust/hr_dust/dust_trims/hr_dust_roof_trim001_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models/props/de_dust/hr_dust/dust_trims/hr_dust_roof_trim001_color.vtf"
+			"$bumpmap"		"models\props\de_dust\hr_dust\dust_trims\hr_dust_roof_trim001_normal.vtf"
+		}
+	}
+}

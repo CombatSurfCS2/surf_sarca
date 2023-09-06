@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\paradise\wood_post.vmt"
+}

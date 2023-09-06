@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_wall_braces\dust_wall_braces_arch_color.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_wall_braces\dust_wall_braces_color.vmt"
+}

@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_roofs\aztec_roof_trims_01_color.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_roofs\aztec_roof_trims_01_white_color.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_roofs\aztec_roof_trims_01_moss_color.vmt"
+}

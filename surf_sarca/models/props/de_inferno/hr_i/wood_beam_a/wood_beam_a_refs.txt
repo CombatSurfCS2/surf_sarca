@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\hr_i\wood_beam_a\wood_beam_a.vmt"
+}

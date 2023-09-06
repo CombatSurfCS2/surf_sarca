@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\myproject\geam_ald_3.vmt"
+}

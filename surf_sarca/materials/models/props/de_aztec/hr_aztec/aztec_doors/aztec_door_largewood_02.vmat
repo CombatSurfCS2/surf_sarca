@@ -1,0 +1,31 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_aztec/hr_aztec/aztec_doors/aztec_door_largewood_02_color.tga"
+	"TextureNormal"		"materials/models/props/de_aztec/hr_aztec/aztec_doors/aztec_door_largewood_02_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_aztec/hr_aztec/aztec_doors/aztec_door_largewood_02_normal_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props\de_aztec\hr_aztec\aztec_doors\aztec_door_largewood_02_color"
+			"$bumpmap"		"models\props\de_aztec\hr_aztec\aztec_doors\aztec_door_largewood_02_normal"
+			"$surfaceprop"		"metal"
+			"$phong"		"1"
+			"$phongexponent"		"30"
+			"$phongalbedotint"		"1"
+			"$phongtint"		"[.13 .13 .1]"
+			"$phongdisablehalflambert"		"1"
+			"$phongboost"		"4"
+			"%keywords"		"door,metal,aztec"
+		}
+	}
+}

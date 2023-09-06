@@ -1,0 +1,11 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_01_wood_color.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_02_wood_color.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_01_wood_decals.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_02_wood_decals.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_01_painted_color.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_02_painted_color.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_01_painted_decals.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_crates\dust_shipping_crate_02_painted_decals.vmt"
+}

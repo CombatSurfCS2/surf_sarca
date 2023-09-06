@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_lighting\aztec_lighting_lantern_01.vmt"
+}

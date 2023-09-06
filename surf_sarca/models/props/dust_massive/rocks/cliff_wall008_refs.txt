@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\dust_massive\rock\cliff_wall006_color.vmt"
+}

@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\surf\el_tower_black.vmt"
+	"file"	"materials\models\surf\el_stena.vmt"
+	"file"	"materials\models\surf\el_pol.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_sculpture\aztec_sculpture_floor_relief_02.vmt"
+}

@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_02_trims_grey_color.tga"
+	"TextureNormal"		"materials/models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_02_trims_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"rock"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_02_trims_grey_color"
+			"$bumpmap"		"models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_02_trims_normal"
+			"$surfaceprop"		"rock"
+			"%keywords"		"wall,stone,rock,grey,aztec"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\de_dust\objects\dust_walltop.vmt"
+}

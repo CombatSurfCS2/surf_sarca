@@ -1,0 +1,40 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/surf/concrete_cyan_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.750000"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureRoughness"		"[0.063281 0.063281 0.063281 1.000000]"
+	"TextureSelfIllumMask"		"[1.000000 1.000000 1.000000 0.000000]"
+	"F_SELF_ILLUM"		"1"
+	"g_vSelfIllumTint"		"[0.701411 0.767376 0.880825]"
+	"g_flSelfIllumScale"		"1.000000"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$model"		"1"
+			"$basetexture"		"models/surf/concrete_cyan"
+			"$selfillum"		"1"
+			"$selfillumtint"		"[0.45 0.55 0.75]"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$surfaceprop"		"concrete"
+			"$reflectivity"		"[0.55 0.55 0.55]"
+			"$envmaptint"		"[0.75 0.75 0.75]"
+			"$envmapcontrast"		"0.500000"
+			"$fresnelreflection"		"0.310000"
+			"$envmaplightscale"		"1"
+			"$phong"		"1"
+			"$phongexponent"		"15"
+			"$phongamount"		"[3.62 3.62 3.62 1]"
+		}
+	}
+}

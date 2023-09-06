@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_metal_panels\dust_metal_panels_01.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_metal_panels\dust_metal_panels_rusty_01.vmt"
+}

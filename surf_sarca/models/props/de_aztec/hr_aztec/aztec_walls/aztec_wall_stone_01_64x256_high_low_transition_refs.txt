@@ -1,0 +1,9 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\hr_aztec_wall_stone_01_grey_color_ao.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_stone_01_individual_bricks_grey_color_ao.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_stone_01_individual_bricks_white_color_ao.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\hr_aztec_wall_stone_01_white_color_ao.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\aztec_wall_stone_01_individual_bricks_moss_color_ao.vmt"
+	"file"	"materials\models\props\de_aztec\hr_aztec\aztec_walls\hr_aztec_wall_stone_01_moss_color_ao.vmt"
+}
